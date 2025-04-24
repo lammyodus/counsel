@@ -1,0 +1,242 @@
+.top-container{
+    width: 200%;
+    height: 180%;
+    background-color: tomato;
+    text-decoration: none;
+  
+    font-family: sans-serif;
+    
+}
+.top-containerr{
+    width: 100%;
+    height: 200%;
+    background-color: tomato;
+    text-decoration: none;
+  
+    font-family: sans-serif;
+    
+}
+.menu  ul{
+display:inline-flex;
+margin: 50px;
+background-color: tomato;
+}
+.menu ul li{
+    list-style: none;
+    margin: 0 20px;
+    color: rgb(198, 196, 255);
+    cursor: pointer;
+   
+}
+
+.menuu ul{
+    display: grid;
+    margin: 40px;
+    background-color: goldenrod;
+    width: 30px;
+}
+.menuu ul li{
+    list-style: none;
+    margin: 0 15px;
+    color: darkmagenta;
+    cursor: pointer;
+    width: 40px;
+}
+.active2{
+    color: khaki !important;
+}
+.active{
+color: tomato  !important;
+text-decoration: none;
+
+}
+.signup-btn{
+    top: 40px;
+    right: 80px;
+    position: absolute;
+    text-decoration: none;
+    color: blueviolet;
+    border: 7px solid transparent;
+    border-radius: 50px;
+    background-image: linear-gradient( #42455a,#42455a),radial-gradient(circle at top left,#fd00da,#19d7f8);
+    background-origin: border-box; 
+    background-clip:content-box,border-box;
+}
+.signup-btn .span{
+display: block;
+padding: 10px 22px;
+}
+.banner{
+    width: 50%;
+    height: 70%;
+    top: 25px;
+    left: 130px;
+    position: absolute;
+    color: burlywood;
+}
+.app-text{
+    width: 50%;
+    float: left;
+    
+}
+.app-text .h1{
+    font-size:42px;
+    width: 600px;
+    position: relative;
+    
+    margin-left: 40px;
+    color: #919;
+}
+.app-text .p{
+    width: 600px;
+    font-size: 15px;
+    margin: 30px 0 30px 40px;
+    line-height: 25px;
+    color: #919;
+    
+
+}
+.apppp-picture{
+    width: 20px;
+    float: right;
+    padding-bottom: 70px;
+}
+.apppp-picture .img{
+    margin-top:-20px ;
+    padding-bottom: 70px;
+    width: 20px;
+    height: 50px;
+}
+.appp-text .h1{
+    font-size:42px;
+    width: 600px;
+    position: relative;
+    
+    margin-left: 40px;
+    color: #919;
+}
+.appp-text .p{
+    width: 600px;
+    font-size: 15px;
+    margin: 30px 0 30px 40px;
+    line-height: 25px;
+    color: #919;
+}
+.appp-picture{
+    width: 20px;
+    
+    padding-bottom: 70px;
+}
+.appp-picture .img{
+    margin-top:-20px ;
+    padding-bottom: 70px;
+    width: 20px;
+    height: 50px;
+}
+.app-picture{
+width: 1px;
+height: 2px;
+background-color: #19dafa;
+top: 50px;
+padding-bottom: 70px;
+float: right;
+}
+.app-picture .img{
+background-color: #19dafa;
+    margin-top: 20px;
+top: 50px;
+padding-bottom: 70px;
+    width: 1px;
+    height: 2px;
+    float: right;
+} 
+.app-picturee{
+    width: 20px;
+    padding-bottom: 70px;
+    float: right;
+}
+.app-picturee .img{
+    margin-top:-20px ;
+    padding-bottom: 70px;
+    width: 20px;
+    height: 50px;
+    float: right;
+    
+}
+
+     
+
+.play-btn{
+    margin-left: 40px;
+    display: inline-flex;
+}
+.play-btn-inner{
+    height: 50pc;
+    width: 50px;
+    border: 2px solid transparent;
+    border-radius: 50%;
+    background-image: linear-gradient(#42455a,#43455a),radial-gradient(circle at top left,##fd00da,#19d718);
+    background-origin: border-box;
+    background-clip:content-box,border-box;
+}
+.play-btn-inner .fa{
+    padding: 15px 0;
+    font-size: 14px;
+    color: #43455a;
+}
+.small{
+    margin: auto 20px;
+    cursor: pointer;
+    font-size: 12px;
+    color: #19dafa;
+    letter-spacing: 3px;
+}
+.bottom-container{
+    left: 60;
+    top: 2000px;
+    bottom:500;
+    width: 30px;
+    position: absolute;
+    background:linear-gradient(to right,#db1bf6,#19d7f8,#43455a,#999);
+) 
+}.bottom-container ul{
+    display: inline-flex;
+    margin: 20px auto;
+    text-align: center;
+    width: 15px;
+}
+.bottom-container ul li{
+  list-style: none; 
+    margin: 0 50px;
+cursor: pointer;
+
+}
+.bottom-container ul li .fa{                   
+    font-size: 20px;
+    color: purple;
+}
+.bottom-container ul li p{
+    margin-top: 15px;
+    font-size: 20px;
+    
+
+}
+.social-icons{
+    right:72px ;
+    bottom: 35px;
+    position: absolute;
+}
+.social-icons ul li{
+    list-style: none;
+    margin: 15px;
+text-align: center;
+}
+.social-icons ul li a{
+    color: #999;
+    border-radius: 50%;
+    border: 1px solid #999;
+    padding: 5px;
+    display:block;
+}
+
+
